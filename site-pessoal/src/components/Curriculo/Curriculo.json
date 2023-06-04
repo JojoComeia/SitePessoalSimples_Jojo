@@ -1,0 +1,35 @@
+{
+  "resumo": "Imagine meu resumo aqui, aqui esta meu resumo logo abaixo, caso esteja vendo meu resumo saiba que este e meu resumo.",
+
+  "experienciaAcademica": [
+    {
+      "titulo": "Eu não estou aguentando mais",
+      "descricaocao": "Socorro 404",
+      "dataInicio": "1980",
+      "dataFim": "2023"
+    },
+
+    {
+      "titulo": "Produzir este Dashboard",
+      "descricaocao": "S.O.S Bueno",
+      "dataInicio": "2010",
+      "dataFim": "2019"
+    },
+
+    {
+      "titulo": "Muito menos esse site pessoal",
+      "descricaocao": "Tio S.A.M Socooorrrroooo",
+      "dataInicio": "2023",
+      "dataFim": "2023"
+    }
+  ],
+
+  "experienciaProfissional": [
+    {
+      "titulo": "Ciencias da computacao",
+      "descricaocao": "Curso de ciencias da computacao",
+      "dataInicio": "2019",
+      "dataFim": " 2025"
+    }
+  ]
+}
